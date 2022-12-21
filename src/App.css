@@ -1,0 +1,39 @@
+
+
+#light {
+  background-color: #f3ebf6;
+ 
+}
+
+
+
+#dark .nav {
+  color: #282c34;
+}
+
+#dark {
+  background-color: #121212;
+
+}
+
+#dark {
+  color:#dfdce4;
+}
+
+#dark .main {
+  color:#dfdce4;
+}
+
+#dark .container {
+ background-color: #262525;
+
+  color:#dfdce4;
+
+}
+
+
+#light .container {
+  background-color: #f3ebf6;
+  color: #282c34;
+ 
+ }
