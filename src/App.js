@@ -119,7 +119,7 @@ function App() {
         </div>
 
         <div className='w-full md:w-2/6 shadow-md rounded  container'>
-        <a href="https://moviecinemademo1223.netlify.app/">
+        <a href="https://cinema123.netlify.app">
           <div className='h-48 md:h-56 rounded-t-md relative overflow-hidden'>
            <Player src='https://lottie.host/cbf7af59-0562-4633-a27e-5e17acb6cd8d/JjieY2c8gF.json' className="player"  loop  autoplay />
           </div>
@@ -132,7 +132,7 @@ function App() {
         </div>
 
         <div className='w-full md:w-2/6 shadow-md rounded container '>
-        <a href="https://memories234demo.netlify.app/post">
+        <a href="https://memoriesdemo123.netlify.app/posts">
           <div className='h-48 md:h-56 rounded-t-md relative overflow-hidden'>
           <Player src='https://lottie.host/93f120d8-3e49-4cae-a97c-cbf4a0e8827c/4tOeNOaUPJ.json' className="player"  loop  autoplay />
           </div>
