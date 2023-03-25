@@ -106,35 +106,35 @@ function App() {
       <div className='flex flex-col md:flex-row gap-8 mt-4'>
 
         <div className='w-full md:w-2/6 shadow-md rounded container' >  
-        <a href="https://e-commercedemo1.netlify.app">
-          <div className='h-48 md:h-56 rounded-t-md relative overflow-hidden'>
-          <Player src='https://lottie.host/fe1f3ad5-2370-413f-bb45-e3e267f8b6b7/TdzaKHQO3P.json' className="player"  loop  autoplay />
+        <a href="https://consciousnessdemo.vercel.app/">
+          <div className='h-25 md:h-35 rounded-t-md relative overflow-hidden'>
+          <Player src='https://assets2.lottiefiles.com/packages/lf20_OGj20ORrMJ.json' className="player"  loop  autoplay />
           </div>
           <div className='p-4'>
-            <h1 className='text-xl font-medium'>E-commerce</h1>
-            <p className=''>Commers.js, React, Mui, Stripe</p>
-            <p className='text-sm text-gray-500'>Dec 2022</p>
+            <h1 className='text-xl font-medium'>Consious AI</h1>
+            <p className=''>Python, OpenAI, AWS Lambda, React.js, Next.js, Tailwind CSSe</p>
+            <p className='text-sm text-gray-500'>Mar 2023</p>
           </div> 
           </a>
         </div>
 
         <div className='w-full md:w-2/6 shadow-md rounded  container'>
-        <a href="https://cinema123.netlify.app">
-          <div className='h-48 md:h-56 rounded-t-md relative overflow-hidden'>
-           <Player src='https://lottie.host/cbf7af59-0562-4633-a27e-5e17acb6cd8d/JjieY2c8gF.json' className="player"  loop  autoplay />
+        <a href="https://admindashboarddemo123.netlify.app/">
+          <div className='h-38 md:h-46  rounded-t-md relative overflow-hidden'>
+           <Player src='https://assets8.lottiefiles.com/packages/lf20_7MKfz7Qw7x.json' className="player"  loop  autoplay />
           </div>
           <div className='p-4'>
-            <h1 className='text-xl font-medium'>Cinema123</h1>
-            <p className=''> MongoDB, Express, React, Node, JWT</p>
-            <p className='text-sm text-gray-500'>Sep 2022</p>
+            <h1 className='text-xl font-medium'>AdminDemo</h1>
+            <p className=''> React.js, Tailwind CSS, Syncfusion library</p>
+            <p className='text-sm text-gray-500'>Jan 2023</p>
           </div>
           </a>
         </div>
 
         <div className='w-full md:w-2/6 shadow-md rounded container '>
         <a href="https://memoriesdemo123.netlify.app/posts">
-          <div className='h-48 md:h-56 rounded-t-md relative overflow-hidden'>
-          <Player src='https://lottie.host/93f120d8-3e49-4cae-a97c-cbf4a0e8827c/4tOeNOaUPJ.json' className="player"  loop  autoplay />
+          <div className='h-38 md:h-46  rounded-t-md relative overflow-hidden'>
+          <Player src='https://assets3.lottiefiles.com/packages/lf20_BMR47p1pZn.json' className="player"  loop  autoplay />
           </div>
           <div className='p-4'>
             <h1 className='text-xl font-medium'>Memories</h1>
